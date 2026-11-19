@@ -1,0 +1,6 @@
+# 個人の映像（顔・声が映る）と、単体再配布が禁止された素材は公開リポジトリに含めない
+video-edit/IMG_0299/source/
+video-edit/IMG_0299/export/
+video-edit/IMG_0299/assets/music/
+video-edit/IMG_0299/assets/sfx/
+video-edit/*.zip
